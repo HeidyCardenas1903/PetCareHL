@@ -1,4 +1,4 @@
-# PetCare – Entrega 2 en adelante
+# PetCare
 
 Aplicación web para la gestión de servicios de cuidado de mascotas (línea de proyecto B).
 Curso **Análisis y Diseño de Sistemas (ISV22340)** – Corporación Universitaria Iberoamericana.
@@ -26,7 +26,7 @@ Docente: Tatiana Lizbeth Cabrera Vargas.
 | Sprint 3 | 2 – 15 nov | Entrega 2 (8 nov): prototipo en Figma, UI kit y pruebas de usabilidad | En curso |
 | Backlog | — | Entrega 3: MVP codificado (HU-01 a HU-08) | Por hacer |
 
-## Entrega 2 – Prototipo del proyecto (8 de noviembre de 2026)
+## Prototipo del proyecto (8 de noviembre de 2026)
 
 1. **Arquitectura de la información:** inventario de contenidos, mapa del sitio, rutas por rol y nomenclatura.
 2. **Principios de diseño:** heurísticas de Nielsen, WCAG 2.1 nivel AA, jerarquía visual.
@@ -54,9 +54,9 @@ Docente: Tatiana Lizbeth Cabrera Vargas.
 
 ### Enlaces
 
-- Prototipo en Figma: _pendiente_
-- Informe de pruebas de usabilidad: _pendiente_
-
+- Prototipo en Figma:(https://www.figma.com/design/QhTeFKiblhf06GUTGNbjHL/PetCare---Heidy-Laura?node-id=1-5&t=gaxLHefcfKA6L39Q-1)
+- Tablero Jira (Scrum): https://hvcardenas2005.atlassian.net/jira/software/projects/PC2/boards/1
+- 
 ## Entrega 3 – MVP (proyección)
 
 - Cliente: HTML, CSS y JavaScript.
@@ -64,11 +64,7 @@ Docente: Tatiana Lizbeth Cabrera Vargas.
 - Base de datos: MySQL.
 - Historias: HU-01 a HU-08 (ver Jira, épica "Entrega 3 – MVP codificado").
 
-## Estructura sugerida
+## Estructura
 
 ```
-/docs        Documento de cada entrega (PDF) y evidencias
-/design      Exportaciones de Figma: wireframes, alta fidelidad, UI kit
-/tests       Guion de pruebas, formulario SUS y resultados
-/src         Código del MVP (Entrega 3)
 ```
